@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }},{{ site.collections | where: "label", "myCollection" | first }}
 
-title: Star Teknoloji 
+title: STAR Teknoloji 
 email: ercetinguler@starteknoloji.space
 description: >- # this means to ignore newlines until "baseurl:"
   Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
   Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://starsuff.app" # the base hostname & protocol for your site, e.g. http://starsuff.app
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://starsuff.tech" # the base hostname & protocol for your site, e.g. https://wwww.starsuff.tech
 twitter_username: guler_ercetin
 github_username: StarTeknoloji
 
@@ -32,7 +32,7 @@ github_username: StarTeknoloji
 theme: minima
 plugins:
   - jekyll-feed
-
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
