@@ -1,18 +1,35 @@
 ---
 layout: page
-title: About
+title: Hakkımda
 permalink: /about/
 ---
+## ***Görevlerimiz*** 
+> - Bilgisayar Sistemleri ve Çevre Birimleri 
+- Software Satışı ve Kurulumu
+- Hardware Bakım ve Montaj
+- Web Tasarımı ve Sayfaları Düzenleme
+- Network ve Güvenlik Sistemleri
+- Eprom ve BGA Chip Değişimi 
+- Printer ve Monitör Onarımı
+- Resmi Çıktı, Fotokopi, Pvc Kaplama, Spiral Defter
+- Yerinde Bakım ve Teknik Destek 
+- 2 . El Telefon ve Tablet
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## ***İletişim***
+> + Tel : 0288 218 33 40
+> - Cep : 0507 236 39 28
+- Devlet MAH. 5 NOLU Cad. Şehime Hanım Apt. No:82a Kırklareli/vize
+Hizmet Vermekteyiz.
+- Gereç adresimiz ise [StarComputer](https://starcomputer.space)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
+
+> Sayfamıza Katkıda Bulunmak için GitHub:
+[StarTeknoloji][StarTeknoloji-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+> You can find the source code for Jekyll at GitHub:
+[StarTeknoloji][StarTeknoloji-organization] /
+[StarTeknoloji](https://github.com/Codes-Exe/StarTeknoloji-Web)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[StarTeknoloji-organization]: https://github.com/StarTeknoloji
