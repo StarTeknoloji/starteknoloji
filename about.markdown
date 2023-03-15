@@ -3,8 +3,8 @@ layout: page
 title: Hakkımda
 permalink: /about/
 ---
-## ***Görevlerimiz*** 
-> - Bilgisayar Sistemleri ve Çevre Birimleri 
+> # ***Görevlerimiz*** 
+- Bilgisayar Sistemleri ve Çevre Birimleri 
 - Software Satışı ve Kurulumu
 - Hardware Bakım ve Montaj
 - Web Tasarımı ve Sayfaları Düzenleme
@@ -15,9 +15,16 @@ permalink: /about/
 - Yerinde Bakım ve Teknik Destek 
 - 2 . El Telefon ve Tablet
 
-## ***İletişim***
-> + Tel : 0288 218 33 40
-> - Cep : 0507 236 39 28
+> # ***Çalışma Saatleri***
+- Hafta İçi 09:00 İle 19:00
+- Hafta Sonu 11:00 ile 18:00
+
+> # ***İletişim***
+- Tel : 0288 318 33 40
+- Cep : 0507 236 39 28 (7/24)
+- e-Posta : ercetinguler@starteknoloji.space
+- e-Posta : ercetinguler@hotmail.com
+- e-Posta : user@starcomputer.space
 - Devlet MAH. 5 NOLU Cad. Şehime Hanım Apt. No:82a Kırklareli/vize
 Hizmet Vermekteyiz.
 - Gereç adresimiz ise [StarComputer](https://starcomputer.space)
