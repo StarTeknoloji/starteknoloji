@@ -20,7 +20,6 @@ permalink: /about/
 - Doğru Yolda Yürüyümek ve Gelişmektir.
 - Dürüst, Güvenilir, Güçlü Bir Kaynak Olmaktır. 
 - Eğitmek, Öğretmek, Sağlamak Vazifemizdir.
-- Hayalerimizi Gerçekleştirmek için Yetiştik.
 - Bütçenize uygun seçeneklerimiz zengindir.
 
 > # ***Çalıştığımız Fİrmalar***
