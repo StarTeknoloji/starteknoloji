@@ -5,6 +5,9 @@ date:   2023-03-14 08:34:23 +0300
 categories: jekyll update
 ---
 
+# **`Hp`** **`Acer`** **`Lenovo`** **`Dell`** **`Toshiba`** **`Logitech`** **`A4Tech`** **`İntel`** **`AMD`** **`Gigabyte`** **`Asus`** **`MSI`** **`Creative`** **`Sony`** **`Casper`** **`Samsung`** **`Apple`** **`LG`** **`Frisby`** **`İNCA`** **`Nec`** **`Corsair`** **`Bitdefender`**
+**`Tp-Link`** **`WD`** **`Epson`** **`Canon`** **`SanDisk`** **`GigaSet`** **`Everest`** **`Hytech`** **`Microsoft`** **`Xerox`** **`Slİnk`**
+
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -27,3 +30,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+

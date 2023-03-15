@@ -21,8 +21,8 @@
 title: STAR Teknoloji 
 email: ercetinguler@starteknoloji.space
 description: >- # this means to ignore newlines until "baseurl:"
-  Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
-  Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
+  ***Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
+  Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.***
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://starteknoloji.dev" # the base hostname & protocol for your site, e.g. https://wwww.starteknoloji.dev
 twitter_username: guler_ercetin

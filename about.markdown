@@ -13,11 +13,28 @@ permalink: /about/
 - Printer ve Monitör Onarımı
 - Resmi Çıktı, Fotokopi, Pvc Kaplama, Spiral Defter
 - Yerinde Bakım ve Teknik Destek 
-- 2 . El Telefon ve Tablet
+- 2 . El Telefon, Tablet, Elektronik Cihazlar
+
+> # ***Amaçlarımız***
+- İşimiz Tam İstenilen Şekilde En İyi Kaliteyi Sunmaktır.
+- Doğru Yolda Yürüyümek ve Gelişmektir.
+- Dürüst, Güvenilir, Güçlü Bir Kaynak Olmaktır. 
+- Eğitmek, Öğretmek, Sağlamak Vazifemizdir.
+- Hayalerimizi Gerçekleştirmek için Yetiştik.
+- Bütçenize uygun seçeneklerimiz zengindir.
+
+> # ***Çalıştığımız Fİrmalar***
+- Pc Bayi, Art Sİstem  Bilgisayar ve Güvenlik Hizmetleri
+- Atom Bilişim
+- Alfa Bilgisayar
+- Akıllı Phone
+- NoteBook Depo
+- Dokunmatikçi
 
 > # ***Çalışma Saatleri***
 - Hafta İçi 09:00 İle 19:00
 - Hafta Sonu 11:00 ile 18:00
+- Resmi Tatillerde Açığız.
 
 > # ***İletişim***
 - Tel : 0288 318 33 40
@@ -25,7 +42,7 @@ permalink: /about/
 - e-Posta : ercetinguler@starteknoloji.space
 - e-Posta : ercetinguler@hotmail.com
 - e-Posta : user@starcomputer.space
-- Devlet MAH. 5 NOLU Cad. Şehime Hanım Apt. No:82a Kırklareli/vize
+- Adresimiz : DEVLET MAH. 5 NOLU CADDE Şehime Hanım Apt. No:82a Kırklareli/vize
 Hizmet Vermekteyiz.
 - Gereç adresimiz ise [StarComputer](https://starcomputer.space)
 
@@ -34,9 +51,9 @@ Hizmet Vermekteyiz.
 [StarTeknoloji][StarTeknoloji-organization] /
 [minima](https://github.com/jekyll/minima)
 
-> You can find the source code for Jekyll at GitHub:
+> Depolarımız GitHub:
 [StarTeknoloji][StarTeknoloji-organization] /
-[StarTeknoloji](https://github.com/Codes-Exe/StarTeknoloji-Web)
+[StarComputer](https://github.com/Codes-Exe/StarTeknoloji-Web)
 
 
 [StarTeknoloji-organization]: https://github.com/StarTeknoloji
