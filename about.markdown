@@ -24,7 +24,7 @@ permalink: /about/
 - Bütçenize uygun seçeneklerimiz zengindir.
 
 > # ***Çalıştığımız Fİrmalar***
-- Pc Bayi, Art Sİstem  Bilgisayar ve Güvenlik Hizmetleri
+- Pc Bayi, Art Sİstem  Bilgisayar ve Güvenlik Sistemleri
 - Atom Bilişim
 - Alfa Bilgisayar
 - Akıllı Phone
@@ -42,7 +42,7 @@ permalink: /about/
 - e-Posta : ercetinguler@starteknoloji.space
 - e-Posta : ercetinguler@hotmail.com
 - e-Posta : user@starcomputer.space
-- Adresimiz : DEVLET MAH. 5 NOLU CADDE Şehime Hanım Apt. No:82a Kırklareli/vize
+- Adresimiz : DEVLET MAHALLESİ 5 NOLU CADDE Şehime Hanım Apt. No:82A TÜRKİYE/Kırklareli/vize
 Hizmet Vermekteyiz.
 - Gereç adresimiz ise [StarComputer](https://starcomputer.space)
 
