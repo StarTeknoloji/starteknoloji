@@ -40,4 +40,4 @@ Hizmet Vermekteyiz.
 
 
 [StarTeknoloji-organization]: https://github.com/StarTeknoloji
-![5077109](https://user-images.githubusercontent.com/93947784/225178562-05b2034a-b50d-4b74-9cf7-93b1267eeb4d.png)
+
